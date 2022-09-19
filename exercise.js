@@ -29,6 +29,6 @@ const students = [
   },
 ];
 
-for (let counter of students) {
-  console.log(counter);
+for (let student of students) {
+  console.log(student);
 }
